@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Tasmania",
+    "tours": [
+      {
+        "id": 1,
+        "name": "Bay of Fire",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://images.unsplash.com/photo-1618032593076-64793c24427d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2532&q=80"
+      },
+      {
+        "id": 2,
+        "name": "Bruny Island",
+        "duration": 8,
+        "rating": 4.0,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://images.unsplash.com/photo-1617766643842-bb3fc12dffc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
+      },
+      {
+        "id": 3,
+        "name": "Cradle Mountain",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://images.unsplash.com/photo-1537513007019-accba1f79ac9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2071&q=80"
+      },
+      {
+        "id": 4,
+        "name": "Hobart",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://images.unsplash.com/photo-1556884244-bbb239639b27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1673&q=80"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Las Vegas",
+    "tours": [
+      {
+        "id": 4,
+        "name": "All Around the World",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg"
+      },
+      {
+        "id": 5,
+        "name": "View the Casinos",
+        "duration": 5,
+        "rating": 4.5,
+        "numberOfReviews": 462,
+        "price": 465,
+        "image": "https://s3.amazonaws.com/virginhotelslv.com/content/uploads/2021/04/Website-Hero-Images-Mohegan-Sun-B-1300x420-1.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Show me the Magic",
+        "duration": 8,
+        "rating": 3.5,
+        "numberOfReviews": 641,
+        "price": 385,
+        "image": "https://footwearnews.com/wp-content/uploads/2020/10/magic-trade-show-las-vegas.jpg"
+      },
+      {
+        "id": 7,
+        "name": "The Falls at Night",
+        "duration": 2,
+        "rating": 4.5,
+        "numberOfReviews": 133,
+        "price": 144,
+        "image": "https://assets.simpleviewcms.com/simpleview/image/upload/c_limit,h_1200,q_75,w_1200/v1/clients/lasvegas/strip_b86ddbea-3add-4995-b449-ac85d700b027.jpg"
+      }
+    ]
+  }
+]
